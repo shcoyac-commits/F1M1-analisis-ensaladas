@@ -1,0 +1,19 @@
+name: analytics
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy=2.4.4
+  - pandas=3.0.2
+  - scipy=1.17.1
+  - matplotlib=3.10.8
+  - seaborn=0.13.2
+  - scikit-learn=1.7.1
+  - jupyter=1.1.1
+  - jupyterlab=4.5.6
+  - ipykernel=7.2.0
+  - pyarrow=23.0.1
+  - pip
+  - pip:
+    - requests==2.33.1
