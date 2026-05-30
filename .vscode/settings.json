@@ -1,4 +1,8 @@
 {
+    "python.defaultInterpreterPath": "C:\\Users\\Said\\anaconda3\\envs\\analytics\\python.exe",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true,
+    "editor.formatOnSave": true,
     "python-envs.defaultEnvManager": "ms-python.python:conda",
     "python-envs.defaultPackageManager": "ms-python.python:conda"
 }
