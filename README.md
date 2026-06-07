@@ -162,6 +162,21 @@ notebooks/S3.6-reportes-calidad.ipynb
 - **Farmacias:** `iva_unit` 62% ceros (medicamentos tasa 0% IVA en México — válido). `tipo_transaccion` 86% ceros — revisar.
 - **Restaurante:** Columna `comanda` 100% nula (eliminar). `precio` 27% ceros — revisar. 3 columnas sin valor analítico.
 
+## 🧮 Cimiento 3 — Matemáticas aplicadas para DS (v0.3)
+
+### Sesiones completadas
+
+| Sesión | Tema | Notebook |
+|--------|------|----------|
+| S4.1 | Estadística descriptiva: media, mediana, varianza, IQR | `notebooks/S4.1-estadistica-descriptiva.ipynb` |
+| S4.2 | Distribuciones: Normal, Log-normal, Poisson, Exponencial | `notebooks/S4.2-distribuciones-probabilidad.ipynb` |
+| S4.3 | Inferencia estadística: CLT, SE, intervalos de confianza | `notebooks/S4.3-inferencia-basica.ipynb` |
+| S4.4 | Álgebra lineal: vectores, distancias, RFM, normalización | `notebooks/S4.4-algebra-lineal.ipynb` |
+| S4.5 | Correlación: Pearson, Spearman, matriz de correlación | `notebooks/S4.5-correlacion.ipynb` |
+| S4.6 | Test de hipótesis: t-test, p-value, Cohen's d | `notebooks/S4.6-tests-hipotesis.ipynb` |
+
+### Dataset utilizado
+- **Leonali** (sell-in retail/alimentos) — `data/processed/dataset1_anonimizado.parquet`
 
 
 ## 👤 Autor
@@ -175,4 +190,4 @@ notebooks/S3.6-reportes-calidad.ipynb
 MIT License - ver archivo [LICENSE](LICENSE) para detalles.
 
 ---
-**Versión:** v0.2 — Cimiento 2 completado (mayo 2026) | Cimiento 1: estructura base y Python DS
+**Versión:** v0.3 — Cimiento 3 completado (junio 2026) | Cimiento 2: anonimización y diagnóstico | Cimiento 1: estructura base
