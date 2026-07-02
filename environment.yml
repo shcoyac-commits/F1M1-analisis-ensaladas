@@ -17,3 +17,5 @@ dependencies:
   - pip
   - pip:
     - requests==2.33.1
+    - plotly
+    - streamlit
