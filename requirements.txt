@@ -20,3 +20,7 @@ pyarrow==23.0.1
 
 # HTTP requests
 requests==2.33.1
+
+plotly==6.8.0
+streamlit==1.58.0
+
