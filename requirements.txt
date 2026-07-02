@@ -1,26 +1,27 @@
 # Core Data Science
-numpy==2.4.4
-pandas
-scipy==1.17.1
+#numpy==2.4.4
+#pandas
+#scipy==1.17.1
 
 # Visualization
-matplotlib==3.10.8
-seaborn==0.13.2
+#matplotlib==3.10.8
+#seaborn==0.13.2
 
 # Machine Learning
-scikit-learn==1.7.1
+#scikit-learn==1.7.1
 
 # Jupyter
-jupyter==1.1.1
-jupyterlab==4.5.6
-ipykernel==7.2.0
+#jupyter==1.1.1
+#jupyterlab==4.5.6
+#ipykernel==7.2.0
 
 # File formats
-pyarrow
+#pyarrow
 
 # HTTP requests
-requests==2.33.1
+#requests==2.33.1
 
+pandas
 plotly
 streamlit
-
+pyarrow
