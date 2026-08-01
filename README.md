@@ -58,6 +58,26 @@ cd F1M1-analisis-ensaladas
 jupyter lab
 ```
 
+## 🚀 Dashboard interactivo
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://leonali-retail-dashboard.streamlit.app)
+
+Explora los datos en vivo — filtra por año y categoría, ve el Pareto, estacionalidad y segmentación de clientes.
+
+## 💡 Hallazgos clave
+
+- **29 de 214 productos** generan el **80% de la venta** (Pareto 80/20)
+- **Octubre y agosto** son los meses pico (+10-12% sobre el promedio anual)
+- **Perdimos 8 clientes** entre 2020-2022, pero la venta **siguió creciendo**
+- El ticket promedio es de **$1,249** (mediana) con distribución log-normal
+- **33 clientes** (Walmart, Soriana, Sam's) sostienen el negocio — los demás son largo cola
+
+## 📝 Post relacionado
+
+> *"Perdimos clientes, pero la venta creció — y fue lo mejor que nos pudo pasar."*
+> 
+> [Leer el análisis completo en Medium](#) ← agregar link cuando publiques
+
 ## 👤 Autor
 
 **Said Herrera Coyac**
