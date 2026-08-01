@@ -28,7 +28,18 @@ F1M1-analisis-ensaladas/
 
 | Notebook | Descripción | Estado |
 |----------|-------------|--------|
-| `01-carga-exploracion.ipynb` | Carga del dataset, .info(), .describe(), primeras visualizaciones | 🔄 En curso |
+| `01-carga-exploracion.ipynb` | Carga del dataset, .info(), .describe(), primeras visualizaciones | ✅ |
+| `02-eda-univariado.ipynb` | EDA Univariado | ✅ |
+| `03-eda-bivariado.ipynb` | EDA Bivariado | ✅ |
+| `04-kpis-retail.ipynb` | Kpis retail | ✅ |
+| `05-kpis-automatizado.ipynb` | Kpis automatizado | ✅ |
+| `06-plotly-intro.ipynb` | Ejercicios con plotly | ✅ |
+| `07-altair-intro.ipynb` | Ejercicios con altair | ✅ |
+| `08-analisis-temporal.ipynb` | Analisis temporal | ✅ |
+| `09-analisis-abc.ipynb` | Analisis ABC | ✅ |
+| `10-segmentacion-clientes.ipynb` | Segmentacion de clientes | ✅ |
+| `11-farmacias-eda.ipynb` | Farmacias EDA | ✅ |
+
 
 ## 🛠️ Stack tecnológico
 
