@@ -18,3 +18,6 @@ Thumbs.db
 
 # Jupyter
 .ipynb_checkpoints/ 
+
+
+data/processed/farmacias_ventas_det_anonimizado.parquet
