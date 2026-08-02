@@ -21,3 +21,4 @@ Thumbs.db
 
 
 data/processed/farmacias_ventas_det_anonimizado.parquet
+data/processed/tickets_farmacia_limpio.csv
